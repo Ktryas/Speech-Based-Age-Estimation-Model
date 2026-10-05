@@ -1,0 +1,27 @@
+Régions de dialecte
+
+Quand on ouvre le dossier TRAIN ou TEST, on trouve 8 sous-dossiers, de DR1 à DR8. Chacun correspond à l'une des grandes régions de dialecte de l'anglais américain (DR signifie « Dialect Region ») :
+
+• DR1 : Nouvelle-Angleterre (New England)
+• DR2 : Nord (Northern)
+• DR3 : Centre-Nord (North Midland), et ainsi de suite.
+
+Locuteurs
+
+Dans chaque région, les dossiers correspondent aux personnes enregistrées (par exemple FCJF0 ou MCPM0). Leur nom donne quelques informations :
+
+• La première lettre indique le sexe : F pour une femme (Female) et M pour un homme (Male).
+• Les trois lettres suivantes sont les initiales de la personne (par exemple CJF).
+• Le dernier chiffre sert à distinguer les personnes qui ont les mêmes initiales.
+
+Fichiers de phrases (Utterances)
+
+Chaque personne a lu 10 phrases. Dans son dossier (par exemple TRAIN/DR1/FCJF0/), on trouve 4 fichiers pour chaque phrase.
+
+Types de phrases (SA, SI, SX)
+
+Le préfixe du fichier indique le type de phrase :
+
+• SA (Dialect sentences) : 2 phrases lues par tous les locuteurs, ce qui permet de comparer leurs accents.
+• SX (Compact sentences) : 5 phrases conçues par le MIT pour contenir beaucoup de suites de sons différentes et complexes.
+• SI (Diverse sentences) : 3 phrases tirées de textes réels, pour apporter plus de diversité linguistique et de contexte.
