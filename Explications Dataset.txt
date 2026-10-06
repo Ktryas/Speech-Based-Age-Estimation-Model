@@ -25,3 +25,29 @@ Le préfixe du fichier indique le type de phrase :
 • SA (Dialect sentences) : 2 phrases lues par tous les locuteurs, ce qui permet de comparer leurs accents.
 • SX (Compact sentences) : 5 phrases conçues par le MIT pour contenir beaucoup de suites de sons différentes et complexes.
 • SI (Diverse sentences) : 3 phrases tirées de textes réels, pour apporter plus de diversité linguistique et de contexte.
+
+
+Statistiques : 
+
+Sexe :
+Hommes : 438 (69.6%)
+Femmes : 191 (30.4%)
+
+Âge : 
+Moyen : 29.9 ans
+Médian : 27 ans
+Minimum : 20 ans
+Maximum : 75 ans
+Ecart-type : 7.9 ans
+
+Région :
+DR2 et DR3 : 102 locuteurs chacune
+DR7 et DR4 : 100 locuteurs chacune
+DR5 : 98 locuteurs
+DR1 : 48 locuteurs
+DR6 : 46 locuteurs
+DR8 : 33 locuteurs
+
+Répartition dans le Dataset : 
+Set d'Entraînement (Train) : 461 locuteurs (73,3 %)
+Set de Test (Test) : 168 locuteurs (26,7 %)
